@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tag HTML Dasar</title>
+</head>
+<body>
+<!-- judul paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+<!--Ini adalah paragraf pertama-->
+<p align="center">Saya hatchi sabilillah sedang belajar HTML dasar, pada kuliah pemograman web 
+    di prodi Teknik Informatika Universitas pelita Bangsa. Pelajaran pertama 
+    yang saya dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag 
+    tag dasar HTML .</p>
+<!-- judul paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+<!-- Ini adalah paragraf kedua -->
+<p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
+    mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
+    tag dasar html.</p>
+    <img src="Logo_UPB.png" alt="Logo Universitas Pelita Bangsa">
+</body>
+</html>
